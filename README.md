@@ -10,7 +10,7 @@ CRC (cyclic redundancy check)-aided decoding schemes are proposed to improve the
 ## CRC-Aided Decoding of Polar Codes
 - CRC aided Successive Cancellation List Decoding
 - CRC aided Successive Cancellation Stack Decoding
--
+
 ## Results and Comparison 
 CRC-aided decoding schemes are proposed to improve the performance of polar codes.
 <p align="center">
